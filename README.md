@@ -26,6 +26,7 @@ The hardware component of the project includes:
 - A Hall effect sensor (TLE4906L)
 - An LED strip (Adafruit DotStar Digital LED Strip)
 - A microcontroller board (Arduino Nano ESP32)
+- A L7805CV voltage regulator 
 
 ## Software
 
