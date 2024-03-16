@@ -39,4 +39,5 @@ The software component consists of two parts:
 2. **Microcontroller Code**: An Arduino program that controls the LED strip and synchronizes the display with the rotation of the device. It utilizes the Hall effect sensor to detect the rotation and calculates the appropriate timing for displaying each image fragment.
 
 ## Example images
-
+![demo image 1](https://github.com/fchmielewski/POVDisplay/blob/main/demo_images/demo1.jpeg)
+![demo image 2](https://github.com/fchmielewski/POVDisplay/blob/main/demo_images/demo2.jpeg)
