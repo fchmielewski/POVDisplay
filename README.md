@@ -35,23 +35,3 @@ The software component consists of two parts:
 1. **Image Converter**: A Python script that converts an input image file into a format suitable for display on the POV device. The script remaps the pixels within the central circle of the input image and generates an array of RGB values for the microcontroller.
 
 2. **Microcontroller Code**: An Arduino program that controls the LED strip and synchronizes the display with the rotation of the device. It utilizes the Hall effect sensor to detect the rotation and calculates the appropriate timing for displaying each image fragment.
-
-## Setup
-
-To set up the project, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Assemble the hardware components according to the provided schematics and instructions.
-3. Upload the microcontroller code to the Arduino Nano ESP32 board.
-4. Run the Image Converter script with your desired input image to generate the RGB array.
-5. Copy the generated RGB array into the microcontroller code.
-
-## Usage
-
-1. Power on the POV display device.
-2. The device will start rotating, and the image will be displayed using the POV effect.
-3. You can change the displayed image by running the Image Converter script with a new input image and updating the RGB array in the microcontroller code.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
