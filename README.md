@@ -37,3 +37,6 @@ The software component consists of two parts:
 1. **Image Converter**: A Python script that converts an input image file into a format suitable for display on the POV device. The script remaps the pixels within the central circle of the input image and generates an array of RGB values for the microcontroller.
 
 2. **Microcontroller Code**: An Arduino program that controls the LED strip and synchronizes the display with the rotation of the device. It utilizes the Hall effect sensor to detect the rotation and calculates the appropriate timing for displaying each image fragment.
+
+## Example images
+
