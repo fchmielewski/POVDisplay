@@ -1,6 +1,6 @@
 # POV Display Project
 
-This repository contains the design and implementation of a Persistence of Vision (POV) display that utilizes the POV effect to create the illusion of a stable image. The project involves both hardware and software components.
+This repository contains the design and implementation of a Persistence of Vision (POV) display that utilizes the POV effect to create the illusion of a stable image. The project was created as a part of my Bachelor's of Engineering thesis.
 
 ## Table of Contents
 
