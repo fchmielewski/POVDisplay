@@ -7,6 +7,7 @@ This repository contains the design and implementation of a Persistence of Visio
 - [About the Project](#about-the-project)
 - [Hardware](#hardware)
 - [Software](#software)
+- [Example images](#example-images)
 
 ## About the Project
 
