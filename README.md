@@ -8,6 +8,7 @@ This repository contains the design and implementation of a Persistence of Visio
 - [Hardware](#hardware)
 - [Software](#software)
 - [Example images](#example-images)
+- [License](#license)
 
 ## About the Project
 
@@ -38,3 +39,7 @@ The software component consists of two parts:
 ## Example images
 ![demo image 1](https://github.com/fchmielewski/POVDisplay/blob/main/demo_images/demo1.jpeg)
 ![demo image 2](https://github.com/fchmielewski/POVDisplay/blob/main/demo_images/demo2.jpeg)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
