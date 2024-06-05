@@ -17,13 +17,13 @@ The POV display project aims to create a prototype device capable of displaying 
 
 The hardware component of the project includes:
 
-- A brushless DC motor (Redox DC 12V 12000RPM)
-- A motor controller
-- A wireless power receiver module (DFRobot Wireless Charging Module 5V/5A)
-- A Hall effect sensor (TLE4906L)
-- An LED strip (Adafruit DotStar Digital LED Strip)
-- A microcontroller board (Arduino Nano ESP32)
-- A L7805CV voltage regulator
+- Brushless DC motor (Redox DC 12V 12000RPM)
+- Motor controller
+- Wireless power receiver module (DFRobot Wireless Charging Module 5V/5A)
+- Hall effect sensor (TLE4906L)
+- LED strip (Adafruit DotStar Digital LED Strip)
+- Microcontroller board (Arduino Nano ESP32)
+- L7805CV voltage regulator
 
 ![display hardware diagram](https://github.com/fchmielewski/POVDisplay/blob/main/diagram.png)
 
