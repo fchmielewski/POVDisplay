@@ -87,8 +87,8 @@ def print_arduino_array(arduino_array):
     print("};")
 
 if __name__ == "__main__":
-    # Replace 'your_image_path.jpg' with the path to your image file
-    image_path = 'remapped_image_color.png'
+    # Replace 'your_image_path.png' with the path to your image file
+    image_path = 'your_image_path.png'
 
     # Convert the image to an Arduino array
     arduino_array = convert_image_to_array(image_path)
